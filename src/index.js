@@ -1,6 +1,7 @@
 // @ts-nocheck
 /**
- * Cloudflare worker to edge cache and serve images stored in R2 bucket
+ * @author Dave | oneheartian
+ * @notice Cloudflare worker to edge cache and serve images stored in R2 bucket
  */
 
 export default {
