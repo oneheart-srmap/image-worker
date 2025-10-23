@@ -5,7 +5,7 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 
-	"name": "image-worker",
+	"name": "oneheart-images",
 	"main": "src/index.js",
 	"compatibility_date": "2025-10-23",
 
