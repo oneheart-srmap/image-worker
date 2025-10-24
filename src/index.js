@@ -1,6 +1,7 @@
 // @ts-nocheck
 /**
- * @author Dave | oneheartian
+ * @author Dave - OneHeartian
+ * @date 2023-10-24
  * @notice Cloudflare worker to edge cache and serve images stored in R2 bucket
  */
 
